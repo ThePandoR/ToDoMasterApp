@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592135529788",
+    "project_id": "todomaster-dbd53",
+    "storage_bucket": "todomaster-dbd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592135529788:android:bd3ac3ee96a0be0b3e6a39",
+        "android_client_info": {
+          "package_name": "com.example.todomaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592135529788-mma2mm8f4mvl6d2iip6dqcu19m1q4n8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD914ZAoWgV8CQ_z-CQf15g3eQHQrFQ5bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592135529788-mma2mm8f4mvl6d2iip6dqcu19m1q4n8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

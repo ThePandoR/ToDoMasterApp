@@ -1,0 +1,516 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APPLICATION_ID	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^  public static final String APPLICATION_ID = "com.example.todomaster";$/;"	f	class:BuildConfig
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+ActivityC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ActivityC implements MainActivity_GeneratedInjector,$/;"	c	class:TaskMaster_HiltComponents
+ActivityCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private final class ActivityCBuilder implements TaskMaster_HiltComponents.ActivityC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl
+ActivityCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface ActivityCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+ActivityCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private ActivityCImpl(Activity activityParam) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+ActivityCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private final class ActivityCImpl extends TaskMaster_HiltComponents.ActivityC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl
+ActivityMainBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  private ActivityMainBinding(@NonNull ConstraintLayout rootView,$/;"	m	class:ActivityMainBinding	file:
+ActivityMainBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^public final class ActivityMainBinding implements ViewBinding {$/;"	c
+ActivityRetainedC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ActivityRetainedC implements ActivityRetainedComponent,$/;"	c	class:TaskMaster_HiltComponents
+ActivityRetainedCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final class ActivityRetainedCBuilder implements TaskMaster_HiltComponents.ActivityRetainedC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+ActivityRetainedCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface ActivityRetainedCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+ActivityRetainedCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private ActivityRetainedCImpl() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl	file:
+ActivityRetainedCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final class ActivityRetainedCImpl extends TaskMaster_HiltComponents.ActivityRetainedC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+ApplicationC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ApplicationC implements TaskMaster_GeneratedInjector,$/;"	c	class:TaskMaster_HiltComponents
+BR	app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java	/^public class BR {$/;"	c
+BR	app/build/generated/source/kapt/debug/com/example/todomaster/BR.java	/^public class BR {$/;"	c
+BUILD_TYPE	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^  public static final String BUILD_TYPE = "debug";$/;"	f	class:BuildConfig
+BuildConfig	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^public final class BuildConfig {$/;"	c
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private Builder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.Builder	file:
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  public static final class Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends ActivityComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.ActivityC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends ActivityRetainedComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.ActivityRetainedC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends FragmentComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.FragmentC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends ServiceComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.ServiceC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends ViewComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.ViewC
+Builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    abstract interface Builder extends ViewWithFragmentComponentBuilder {$/;"	i	class:TaskMaster_HiltComponents.ViewWithFragmentC
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+COLLECTION_PATH	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    private static final String COLLECTION_PATH = "tasks-collection";$/;"	f	class:FirestoreTaskRepository	file:
+DEBUG	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^  public static final boolean DEBUG = Boolean.parseBoolean("true");$/;"	f	class:BuildConfig
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+DaggerTaskMaster_HiltComponents_ApplicationC	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private DaggerTaskMaster_HiltComponents_ApplicationC($/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+DaggerTaskMaster_HiltComponents_ApplicationC	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^public final class DaggerTaskMaster_HiltComponents_ApplicationC extends TaskMaster_HiltComponents.ApplicationC {$/;"	c
+DataBinderMapperImpl	app/build/generated/source/kapt/debug/androidx/databinding/DataBinderMapperImpl.java	/^  DataBinderMapperImpl() {$/;"	m	class:DataBinderMapperImpl
+DataBinderMapperImpl	app/build/generated/source/kapt/debug/androidx/databinding/DataBinderMapperImpl.java	/^public class DataBinderMapperImpl extends MergedDataBinderMapper {$/;"	c
+DataBinderMapperImpl	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^public class DataBinderMapperImpl extends DataBinderMapper {$/;"	c
+DataBindingComponent	app/build/generated/source/kapt/debug/androidx/databinding/DataBindingComponent.java	/^public interface DataBindingComponent {$/;"	i
+DataBindingTriggerClass	app/build/generated/data_binding_trigger/debug/com/example/todomaster/DataBindingTriggerClass.java	/^public class DataBindingTriggerClass {}/;"	c
+ExampleInstrumentedTest	app/src/androidTest/java/com/example/todomaster/ExampleInstrumentedTest.java	/^public class ExampleInstrumentedTest {$/;"	c
+FirestoreRepoHiltModule	app/src/main/java/com/example/todomaster/di/FirestoreRepoHiltModule.java	/^public abstract class FirestoreRepoHiltModule {$/;"	c
+FirestoreRepoHiltModule_FirestoreInstanceFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^public final class FirestoreRepoHiltModule_FirestoreInstanceFactory implements Factory<FirebaseFirestore> {$/;"	c
+FirestoreTaskRepository	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public FirestoreTaskRepository(FirebaseFirestore firestore) {$/;"	m	class:FirestoreTaskRepository
+FirestoreTaskRepository	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^public class FirestoreTaskRepository implements TaskRepository {$/;"	c
+FirestoreTaskRepository_Factory	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^  public FirestoreTaskRepository_Factory(Provider<FirebaseFirestore> firestoreProvider) {$/;"	m	class:FirestoreTaskRepository_Factory
+FirestoreTaskRepository_Factory	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^public final class FirestoreTaskRepository_Factory implements Factory<FirestoreTaskRepository> {$/;"	c
+FragmentC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class FragmentC implements TaskEditFragment_GeneratedInjector,$/;"	c	class:TaskMaster_HiltComponents
+FragmentCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final class FragmentCBuilder implements TaskMaster_HiltComponents.FragmentC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+FragmentCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface FragmentCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+FragmentCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private FragmentCImpl(Fragment fragmentParam) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl	file:
+FragmentCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final class FragmentCImpl extends TaskMaster_HiltComponents.FragmentC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+FragmentTaskEditBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  protected FragmentTaskEditBinding(Object _bindingComponent, View _root, int _localFieldCount,$/;"	m	class:FragmentTaskEditBinding
+FragmentTaskEditBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^public abstract class FragmentTaskEditBinding extends ViewDataBinding {$/;"	c
+FragmentTaskEditBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private FragmentTaskEditBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {$/;"	m	class:FragmentTaskEditBindingImpl	file:
+FragmentTaskEditBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    public FragmentTaskEditBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {$/;"	m	class:FragmentTaskEditBindingImpl
+FragmentTaskEditBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^public class FragmentTaskEditBindingImpl extends FragmentTaskEditBinding  {$/;"	c
+FragmentTaskListBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  private FragmentTaskListBinding(@NonNull ConstraintLayout rootView,$/;"	m	class:FragmentTaskListBinding	file:
+FragmentTaskListBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^public final class FragmentTaskListBinding implements ViewBinding {$/;"	c
+Hilt_MainActivity	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  Hilt_MainActivity() {$/;"	m	class:Hilt_MainActivity
+Hilt_MainActivity	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  Hilt_MainActivity(int contentLayoutId) {$/;"	m	class:Hilt_MainActivity
+Hilt_MainActivity	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^abstract class Hilt_MainActivity extends AppCompatActivity implements GeneratedComponentManager<Object> {$/;"	c
+Hilt_TaskEditFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  Hilt_TaskEditFragment() {$/;"	m	class:Hilt_TaskEditFragment
+Hilt_TaskEditFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  Hilt_TaskEditFragment(int contentLayoutId) {$/;"	m	class:Hilt_TaskEditFragment
+Hilt_TaskEditFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^abstract class Hilt_TaskEditFragment extends Fragment implements GeneratedComponentManager<Object> {$/;"	c
+Hilt_TaskListFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  Hilt_TaskListFragment() {$/;"	m	class:Hilt_TaskListFragment
+Hilt_TaskListFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  Hilt_TaskListFragment(int contentLayoutId) {$/;"	m	class:Hilt_TaskListFragment
+Hilt_TaskListFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^abstract class Hilt_TaskListFragment extends Fragment implements GeneratedComponentManager<Object> {$/;"	c
+Hilt_TaskMaster	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^abstract class Hilt_TaskMaster extends Application implements GeneratedComponentManager<Object> {$/;"	c
+INSTANCE	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^    private static final FirestoreRepoHiltModule_FirestoreInstanceFactory INSTANCE = new FirestoreRepoHiltModule_FirestoreInstanceFactory();$/;"	f	class:FirestoreRepoHiltModule_FirestoreInstanceFactory.InstanceHolder	file:
+INSTANCE	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^    private static final NetworkingHiltModule_BindRandomWordApiFactory INSTANCE = new NetworkingHiltModule_BindRandomWordApiFactory();$/;"	f	class:NetworkingHiltModule_BindRandomWordApiFactory.InstanceHolder	file:
+INTERNAL_LAYOUT_ID_LOOKUP	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);$/;"	f	class:DataBinderMapperImpl	file:
+InnerBrLookup	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  private static class InnerBrLookup {$/;"	c	class:DataBinderMapperImpl
+InnerLayoutIdLookup	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  private static class InnerLayoutIdLookup {$/;"	c	class:DataBinderMapperImpl
+InstanceHolder	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^  private static final class InstanceHolder {$/;"	c	class:FirestoreRepoHiltModule_FirestoreInstanceFactory
+InstanceHolder	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^  private static final class InstanceHolder {$/;"	c	class:NetworkingHiltModule_BindRandomWordApiFactory
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+LAYOUT_FRAGMENTTASKEDIT	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  private static final int LAYOUT_FRAGMENTTASKEDIT = 1;$/;"	f	class:DataBinderMapperImpl	file:
+LAYOUT_TASKLISTITEM	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  private static final int LAYOUT_TASKLISTITEM = 2;$/;"	f	class:DataBinderMapperImpl	file:
+MainActivity	app/src/main/java/com/example/todomaster/MainActivity.java	/^public class MainActivity extends AppCompatActivity {$/;"	c
+MainActivity_GeneratedInjector	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_GeneratedInjector.java	/^public interface MainActivity_GeneratedInjector {$/;"	i
+MainActivity_MembersInjector	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^  public MainActivity_MembersInjector(Provider<RandomWordAPI> randomWordAPIProvider) {$/;"	m	class:MainActivity_MembersInjector
+MainActivity_MembersInjector	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^public final class MainActivity_MembersInjector implements MembersInjector<MainActivity> {$/;"	c
+NetworkingHiltModule	app/src/main/java/com/example/todomaster/networking/NetworkingHiltModule.java	/^public class NetworkingHiltModule {$/;"	c
+NetworkingHiltModule_BindRandomWordApiFactory	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^public final class NetworkingHiltModule_BindRandomWordApiFactory implements Factory<RandomWordAPI> {$/;"	c
+RandomWordAPI	app/src/main/java/com/example/todomaster/networking/RandomWordAPI.java	/^public interface RandomWordAPI {$/;"	i
+RandomWordClient	app/src/main/java/com/example/todomaster/networking/RandomWordClient.java	/^    public RandomWordClient(String domain) {$/;"	m	class:RandomWordClient
+RandomWordClient	app/src/main/java/com/example/todomaster/networking/RandomWordClient.java	/^public class RandomWordClient {$/;"	c
+ServiceC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ServiceC implements ServiceComponent,$/;"	c	class:TaskMaster_HiltComponents
+ServiceCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final class ServiceCBuilder implements TaskMaster_HiltComponents.ServiceC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+ServiceCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface ServiceCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+ServiceCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private ServiceCImpl(Service service) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ServiceCImpl	file:
+ServiceCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final class ServiceCImpl extends TaskMaster_HiltComponents.ServiceC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+SwitchingProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        SwitchingProvider(int id) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.SwitchingProvider
+SwitchingProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final class SwitchingProvider<T> implements Provider<T> {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+SwitchingProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    SwitchingProvider(int id) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.SwitchingProvider
+SwitchingProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final class SwitchingProvider<T> implements Provider<T> {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC
+Task	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public Task() {$/;"	m	class:Task
+Task	app/src/main/java/com/example/todomaster/data/model/Task.java	/^public class Task {$/;"	c
+TaskEditFragment	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^public class TaskEditFragment extends Fragment {$/;"	c
+TaskEditFragment_GeneratedInjector	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskEditFragment_GeneratedInjector.java	/^public interface TaskEditFragment_GeneratedInjector {$/;"	i
+TaskListAdapter	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    public TaskListAdapter(TasksVM vm, LifecycleOwner lifecycleOwner) {$/;"	m	class:TaskListAdapter
+TaskListAdapter	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^public class TaskListAdapter extends RecyclerView.Adapter<TaskListAdapter.ViewHolder> {$/;"	c
+TaskListFragment	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^public class TaskListFragment extends Fragment {$/;"	c
+TaskListFragment_GeneratedInjector	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskListFragment_GeneratedInjector.java	/^public interface TaskListFragment_GeneratedInjector {$/;"	i
+TaskListItemBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  protected TaskListItemBinding(Object _bindingComponent, View _root, int _localFieldCount,$/;"	m	class:TaskListItemBinding
+TaskListItemBinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^public abstract class TaskListItemBinding extends ViewDataBinding {$/;"	c
+TaskListItemBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    private TaskListItemBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {$/;"	m	class:TaskListItemBindingImpl	file:
+TaskListItemBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    public TaskListItemBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {$/;"	m	class:TaskListItemBindingImpl
+TaskListItemBindingImpl	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^public class TaskListItemBindingImpl extends TaskListItemBinding  {$/;"	c
+TaskListLiveData	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    public TaskListLiveData(Query reference) {$/;"	m	class:TaskListLiveData
+TaskListLiveData	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^public class TaskListLiveData extends LiveData<List<Task>> implements EventListener<QuerySnapshot> {$/;"	c
+TaskLiveData	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    public TaskLiveData(DocumentReference reference) {$/;"	m	class:TaskLiveData
+TaskLiveData	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^public class TaskLiveData extends LiveData<Task> implements EventListener<DocumentSnapshot> {$/;"	c
+TaskMaster	app/src/main/java/com/example/todomaster/di/TaskMaster.java	/^public class TaskMaster extends Application {$/;"	c
+TaskMaster_GeneratedInjector	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_GeneratedInjector.java	/^public interface TaskMaster_GeneratedInjector {$/;"	i
+TaskMaster_HiltComponents	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  private TaskMaster_HiltComponents() {$/;"	m	class:TaskMaster_HiltComponents	file:
+TaskMaster_HiltComponents	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^public final class TaskMaster_HiltComponents {$/;"	c
+TaskRepository	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^public interface TaskRepository {$/;"	i
+TasksVM	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public TasksVM(FirestoreTaskRepository repo) {$/;"	m	class:TasksVM
+TasksVM	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^public class TasksVM extends ViewModel {$/;"	c
+TasksVM_AssistedFactory	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory.java	/^  TasksVM_AssistedFactory(Provider<FirestoreTaskRepository> repo) {$/;"	m	class:TasksVM_AssistedFactory
+TasksVM_AssistedFactory	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory.java	/^public final class TasksVM_AssistedFactory implements ViewModelAssistedFactory<TasksVM> {$/;"	c
+TasksVM_AssistedFactory_Factory	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^  public TasksVM_AssistedFactory_Factory(Provider<FirestoreTaskRepository> repoProvider) {$/;"	m	class:TasksVM_AssistedFactory_Factory
+TasksVM_AssistedFactory_Factory	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^public final class TasksVM_AssistedFactory_Factory implements Factory<TasksVM_AssistedFactory> {$/;"	c
+TasksVM_HiltModule	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_HiltModule.java	/^public interface TasksVM_HiltModule {$/;"	i
+TestTask	app/src/test/java/com/example/todomaster/TestTask.java	/^public class TestTask {$/;"	c
+VERSION_CODE	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^  public static final int VERSION_CODE = 1;$/;"	f	class:BuildConfig
+VERSION_NAME	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^  public static final String VERSION_NAME = "1.0";$/;"	f	class:BuildConfig
+ViewC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ViewC implements ViewComponent,$/;"	c	class:TaskMaster_HiltComponents
+ViewCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final class ViewCBuilder implements TaskMaster_HiltComponents.ViewC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+ViewCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface ViewCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+ViewCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private ViewCImpl(View view) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.ViewCImpl	file:
+ViewCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final class ViewCImpl extends TaskMaster_HiltComponents.ViewC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+ViewHolder	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^        public ViewHolder(TaskListItemBinding binding) {$/;"	m	class:TaskListAdapter.ViewHolder
+ViewHolder	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    public class ViewHolder extends RecyclerView.ViewHolder {$/;"	c	class:TaskListAdapter
+ViewWithFragmentC	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  public abstract static class ViewWithFragmentC implements ViewWithFragmentComponent,$/;"	c	class:TaskMaster_HiltComponents
+ViewWithFragmentCBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private final class ViewWithFragmentCBuilder implements TaskMaster_HiltComponents.ViewWithFragmentC.Builder {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+ViewWithFragmentCBuilderModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^  abstract interface ViewWithFragmentCBuilderModule {$/;"	i	class:TaskMaster_HiltComponents
+ViewWithFragmentCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^          private ViewWithFragmentCImpl(View view) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl.ViewWithFragmentCImpl	file:
+ViewWithFragmentCImpl	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private final class ViewWithFragmentCImpl extends TaskMaster_HiltComponents.ViewWithFragmentC {$/;"	c	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+_all	app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java	/^  public static final int _all = 0;$/;"	f	class:BR
+_all	app/build/generated/source/kapt/debug/com/example/todomaster/BR.java	/^  public static final int _all = 0;$/;"	f	class:BR
+activity	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private Activity activity;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCBuilder	file:
+activity	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private final Activity activity;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+activity	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public ActivityCBuilder activity(Activity activity) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCBuilder
+activityComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public ActivityComponentBuilder activityComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl
+addTask	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public TaskLiveData addTask(Task entry) {$/;"	m	class:FirestoreTaskRepository
+addTask	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    TaskLiveData addTask(Task entry);$/;"	m	interface:TaskRepository
+androidx.databinding	app/build/generated/source/kapt/debug/androidx/databinding/DataBinderMapperImpl.java	/^package androidx.databinding;$/;"	p
+androidx.databinding	app/build/generated/source/kapt/debug/androidx/databinding/DataBindingComponent.java	/^package androidx.databinding;$/;"	p
+androidx.databinding.library.baseAdapters	app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java	/^package androidx.databinding.library.baseAdapters;$/;"	p
+appBarLayout2	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public final AppBarLayout appBarLayout2;$/;"	f	class:ActivityMainBinding
+applicationContextModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private ApplicationContextModule applicationContextModule;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.Builder	file:
+applicationContextModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public Builder applicationContextModule(ApplicationContextModule applicationContextModule) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.Builder
+applicationContextModule	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private final ApplicationContextModule applicationContextModule;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public static ActivityMainBinding bind(@NonNull View rootView) {$/;"	m	class:ActivityMainBinding
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public static FragmentTaskEditBinding bind(@NonNull View view) {$/;"	m	class:FragmentTaskEditBinding
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public static FragmentTaskEditBinding bind(@NonNull View view, @Nullable Object component) {$/;"	m	class:FragmentTaskEditBinding
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public static FragmentTaskListBinding bind(@NonNull View rootView) {$/;"	m	class:FragmentTaskListBinding
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public static TaskListItemBinding bind(@NonNull View view) {$/;"	m	class:TaskListItemBinding
+bind	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public static TaskListItemBinding bind(@NonNull View view, @Nullable Object component) {$/;"	m	class:TaskListItemBinding
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    ActivityComponentBuilder bind(ActivityC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.ActivityCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    ActivityRetainedComponentBuilder bind(ActivityRetainedC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.ActivityRetainedCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    FragmentComponentBuilder bind(FragmentC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.FragmentCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    ServiceComponentBuilder bind(ServiceC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.ServiceCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    ViewComponentBuilder bind(ViewC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.ViewCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^    ViewWithFragmentComponentBuilder bind(ViewWithFragmentC.Builder builder);$/;"	m	interface:TaskMaster_HiltComponents.ViewWithFragmentCBuilderModule
+bind	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_HiltModule.java	/^  ViewModelAssistedFactory<? extends ViewModel> bind(TasksVM_AssistedFactory factory);$/;"	m	interface:TasksVM_HiltModule
+bindRandomWordApi	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^  public static RandomWordAPI bindRandomWordApi() {$/;"	m	class:NetworkingHiltModule_BindRandomWordApiFactory
+bindRandomWordApi	app/src/main/java/com/example/todomaster/networking/NetworkingHiltModule.java	/^    public static RandomWordAPI bindRandomWordApi() {$/;"	m	class:NetworkingHiltModule
+bindTaskRepo	app/src/main/java/com/example/todomaster/di/FirestoreRepoHiltModule.java	/^    public abstract TaskRepository bindTaskRepo(FirestoreTaskRepository impl);$/;"	m	class:FirestoreRepoHiltModule
+binding	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^    private FragmentTaskEditBinding binding;$/;"	f	class:TaskEditFragment	file:
+binding	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^        private TaskListItemBinding binding;$/;"	f	class:TaskListAdapter.ViewHolder	file:
+binding	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^    private FragmentTaskListBinding binding;$/;"	f	class:TaskListFragment	file:
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^          public TaskMaster_HiltComponents.ViewWithFragmentC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl.ViewWithFragmentCBuilder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public TaskMaster_HiltComponents.FragmentC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCBuilder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public TaskMaster_HiltComponents.ViewC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.ViewCBuilder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public TaskMaster_HiltComponents.ActivityC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCBuilder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public TaskMaster_HiltComponents.ActivityRetainedC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCBuilder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public TaskMaster_HiltComponents.ApplicationC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.Builder
+build	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public TaskMaster_HiltComponents.ServiceC build() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ServiceCBuilder
+builder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  public static Builder builder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC
+canEqual	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    protected boolean canEqual(final Object other) {$/;"	m	class:Task
+collectDependencies	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  public List<DataBinderMapper> collectDependencies() {$/;"	m	class:DataBinderMapperImpl
+com.example.todomaster	app/build/generated/data_binding_trigger/debug/com/example/todomaster/DataBindingTriggerClass.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/buildConfig/debug/com/example/todomaster/BuildConfig.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/kapt/debug/com/example/todomaster/BR.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_GeneratedInjector.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/src/androidTest/java/com/example/todomaster/ExampleInstrumentedTest.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/src/main/java/com/example/todomaster/MainActivity.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster	app/src/test/java/com/example/todomaster/TestTask.java	/^package com.example.todomaster;$/;"	p
+com.example.todomaster.data.model	app/src/main/java/com/example/todomaster/data/model/Task.java	/^package com.example.todomaster.data.model;$/;"	p
+com.example.todomaster.data.persistence	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^package com.example.todomaster.data.persistence;$/;"	p
+com.example.todomaster.data.persistence	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^package com.example.todomaster.data.persistence;$/;"	p
+com.example.todomaster.data.persistence	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^package com.example.todomaster.data.persistence;$/;"	p
+com.example.todomaster.data.persistence	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^package com.example.todomaster.data.persistence;$/;"	p
+com.example.todomaster.data.persistence	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    package com.example.todomaster.data.persistence;$/;"	p
+com.example.todomaster.databinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.databinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.databinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.databinding	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.databinding	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.databinding	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^package com.example.todomaster.databinding;$/;"	p
+com.example.todomaster.di	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_GeneratedInjector.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_HiltComponents.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/src/main/java/com/example/todomaster/di/FirestoreRepoHiltModule.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.di	app/src/main/java/com/example/todomaster/di/TaskMaster.java	/^package com.example.todomaster.di;$/;"	p
+com.example.todomaster.networking	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^package com.example.todomaster.networking;$/;"	p
+com.example.todomaster.networking	app/src/main/java/com/example/todomaster/networking/NetworkingHiltModule.java	/^package com.example.todomaster.networking;$/;"	p
+com.example.todomaster.networking	app/src/main/java/com/example/todomaster/networking/RandomWordAPI.java	/^package com.example.todomaster.networking;$/;"	p
+com.example.todomaster.networking	app/src/main/java/com/example/todomaster/networking/RandomWordClient.java	/^package com.example.todomaster.networking;$/;"	p
+com.example.todomaster.view	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskEditFragment_GeneratedInjector.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskListFragment_GeneratedInjector.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.view	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^package com.example.todomaster.view;$/;"	p
+com.example.todomaster.viewmodel	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory.java	/^package com.example.todomaster.viewmodel;$/;"	p
+com.example.todomaster.viewmodel	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^package com.example.todomaster.viewmodel;$/;"	p
+com.example.todomaster.viewmodel	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_HiltModule.java	/^package com.example.todomaster.viewmodel;$/;"	p
+com.example.todomaster.viewmodel	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^package com.example.todomaster.viewmodel;$/;"	p
+com_example_todomaster_MainActivity_GeneratedInjectorModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_MainActivity_GeneratedInjectorModuleDeps.java	/^class com_example_todomaster_MainActivity_GeneratedInjectorModuleDeps {$/;"	c
+com_example_todomaster_di_FirestoreRepoHiltModuleModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_di_FirestoreRepoHiltModuleModuleDeps.java	/^class com_example_todomaster_di_FirestoreRepoHiltModuleModuleDeps {$/;"	c
+com_example_todomaster_di_TaskMaster_GeneratedInjectorModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_di_TaskMaster_GeneratedInjectorModuleDeps.java	/^class com_example_todomaster_di_TaskMaster_GeneratedInjectorModuleDeps {$/;"	c
+com_example_todomaster_networking_NetworkingHiltModuleModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_networking_NetworkingHiltModuleModuleDeps.java	/^class com_example_todomaster_networking_NetworkingHiltModuleModuleDeps {$/;"	c
+com_example_todomaster_view_TaskEditFragment_GeneratedInjectorModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_view_TaskEditFragment_GeneratedInjectorModuleDeps.java	/^class com_example_todomaster_view_TaskEditFragment_GeneratedInjectorModuleDeps {$/;"	c
+com_example_todomaster_view_TaskListFragment_GeneratedInjectorModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_view_TaskListFragment_GeneratedInjectorModuleDeps.java	/^class com_example_todomaster_view_TaskListFragment_GeneratedInjectorModuleDeps {$/;"	c
+com_example_todomaster_viewmodel_TasksVM_HiltModuleModuleDeps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_viewmodel_TasksVM_HiltModuleModuleDeps.java	/^class com_example_todomaster_viewmodel_TasksVM_HiltModuleModuleDeps {$/;"	c
+componentContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  private ContextWrapper componentContext;$/;"	f	class:Hilt_TaskEditFragment	file:
+componentContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  private ContextWrapper componentContext;$/;"	f	class:Hilt_TaskListFragment	file:
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  private volatile ActivityComponentManager componentManager;$/;"	f	class:Hilt_MainActivity	file:
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  protected final ActivityComponentManager componentManager() {$/;"	m	class:Hilt_MainActivity
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^  private final ApplicationComponentManager componentManager = new ApplicationComponentManager(new ComponentSupplier() {$/;"	f	class:Hilt_TaskMaster	file:
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^  protected final ApplicationComponentManager componentManager() {$/;"	m	class:Hilt_TaskMaster
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  private volatile FragmentComponentManager componentManager;$/;"	f	class:Hilt_TaskEditFragment	file:
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  protected final FragmentComponentManager componentManager() {$/;"	m	class:Hilt_TaskEditFragment
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  private volatile FragmentComponentManager componentManager;$/;"	f	class:Hilt_TaskListFragment	file:
+componentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  protected final FragmentComponentManager componentManager() {$/;"	m	class:Hilt_TaskListFragment
+componentManagerLock	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  private final Object componentManagerLock = new Object();$/;"	f	class:Hilt_MainActivity	file:
+componentManagerLock	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  private final Object componentManagerLock = new Object();$/;"	f	class:Hilt_TaskEditFragment	file:
+componentManagerLock	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  private final Object componentManagerLock = new Object();$/;"	f	class:Hilt_TaskListFragment	file:
+convertBrIdToString	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  public String convertBrIdToString(int localId) {$/;"	m	class:DataBinderMapperImpl
+coordinatorLayout	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public final ConstraintLayout coordinatorLayout;$/;"	f	class:ActivityMainBinding
+create	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^  public static MembersInjector<MainActivity> create($/;"	m	class:MainActivity_MembersInjector
+create	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^  public static FirestoreTaskRepository_Factory create($/;"	m	class:FirestoreTaskRepository_Factory
+create	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^  public static FirestoreRepoHiltModule_FirestoreInstanceFactory create() {$/;"	m	class:FirestoreRepoHiltModule_FirestoreInstanceFactory
+create	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^  public static NetworkingHiltModule_BindRandomWordApiFactory create() {$/;"	m	class:NetworkingHiltModule_BindRandomWordApiFactory
+create	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory.java	/^  public TasksVM create(SavedStateHandle arg0) {$/;"	m	class:TasksVM_AssistedFactory
+create	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^  public static TasksVM_AssistedFactory_Factory create($/;"	m	class:TasksVM_AssistedFactory_Factory
+createComponentManager	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  protected ActivityComponentManager createComponentManager() {$/;"	m	class:Hilt_MainActivity
+createComponentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  protected FragmentComponentManager createComponentManager() {$/;"	m	class:Hilt_TaskEditFragment
+createComponentManager	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  protected FragmentComponentManager createComponentManager() {$/;"	m	class:Hilt_TaskListFragment
+createEntry	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public void createEntry() {$/;"	m	class:TasksVM
+date	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    private Date date;$/;"	f	class:Task	file:
+dateCreated	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public final TextView dateCreated;$/;"	f	class:TaskListItemBinding
+deleteTask	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public void deleteTask(String id) {$/;"	m	class:FirestoreTaskRepository
+deleteTask	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    void deleteTask(String id);$/;"	m	interface:TaskRepository
+desc	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    private String desc;$/;"	f	class:Task	file:
+die	gradlew	/^die () {$/;"	f
+divider	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public final View divider;$/;"	f	class:TaskListItemBinding
+end	gradlew.bat	/^:end$/;"	l
+equals	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public boolean equals(final Object o) {$/;"	m	class:Task
+execute	gradlew.bat	/^:execute$/;"	l
+executeBindings	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    protected void executeBindings() {$/;"	m	class:FragmentTaskEditBindingImpl
+executeBindings	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    protected void executeBindings() {$/;"	m	class:TaskListItemBindingImpl
+fab	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public final FloatingActionButton fab;$/;"	f	class:FragmentTaskListBinding
+fail	gradlew.bat	/^:fail$/;"	l
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+firestore	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    private FirebaseFirestore firestore;$/;"	f	class:FirestoreTaskRepository	file:
+firestoreInstance	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^  public static FirebaseFirestore firestoreInstance() {$/;"	m	class:FirestoreRepoHiltModule_FirestoreInstanceFactory
+firestoreInstance	app/src/main/java/com/example/todomaster/di/FirestoreRepoHiltModule.java	/^    public static FirebaseFirestore firestoreInstance() {$/;"	m	class:FirestoreRepoHiltModule
+firestoreProvider	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^  private final Provider<FirebaseFirestore> firestoreProvider;$/;"	f	class:FirestoreTaskRepository_Factory	file:
+firestoreTaskRepository	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private volatile Object firestoreTaskRepository = new MemoizedSentinel();$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+firestoreTaskRepositoryProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private volatile Provider<FirestoreTaskRepository> firestoreTaskRepositoryProvider;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+fragment	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private Fragment fragment;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCBuilder	file:
+fragment	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private final Fragment fragment;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl	file:
+fragment	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public FragmentCBuilder fragment(Fragment fragment) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCBuilder
+fragmentComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public FragmentComponentBuilder fragmentComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+generatedComponent	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  public final Object generatedComponent() {$/;"	m	class:Hilt_MainActivity
+generatedComponent	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^  public final Object generatedComponent() {$/;"	m	class:Hilt_TaskMaster
+generatedComponent	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public final Object generatedComponent() {$/;"	m	class:Hilt_TaskEditFragment
+generatedComponent	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public final Object generatedComponent() {$/;"	m	class:Hilt_TaskListFragment
+get	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^  public FirestoreTaskRepository get() {$/;"	m	class:FirestoreTaskRepository_Factory
+get	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public T get() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.SwitchingProvider
+get	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public T get() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.SwitchingProvider
+get	app/build/generated/source/kapt/debug/com/example/todomaster/di/FirestoreRepoHiltModule_FirestoreInstanceFactory.java	/^  public FirebaseFirestore get() {$/;"	m	class:FirestoreRepoHiltModule_FirestoreInstanceFactory
+get	app/build/generated/source/kapt/debug/com/example/todomaster/networking/NetworkingHiltModule_BindRandomWordApiFactory.java	/^  public RandomWordAPI get() {$/;"	m	class:NetworkingHiltModule_BindRandomWordApiFactory
+get	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^  public TasksVM_AssistedFactory get() {$/;"	m	class:TasksVM_AssistedFactory_Factory
+getActivityViewModelFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public Set<ViewModelProvider.Factory> getActivityViewModelFactory() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+getAllTasks	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public TaskListLiveData getAllTasks() {$/;"	m	class:FirestoreTaskRepository
+getAllTasks	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    TaskListLiveData getAllTasks();$/;"	m	interface:TaskRepository
+getContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public Context getContext() {$/;"	m	class:Hilt_TaskEditFragment
+getContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public Context getContext() {$/;"	m	class:Hilt_TaskListFragment
+getDataBinder	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  public ViewDataBinding getDataBinder(DataBindingComponent component, View view, int layoutId) {$/;"	m	class:DataBinderMapperImpl
+getDataBinder	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  public ViewDataBinding getDataBinder(DataBindingComponent component, View[] views, int layoutId) {$/;"	m	class:DataBinderMapperImpl
+getDate	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public Date getDate() {$/;"	m	class:Task
+getDefaultViewModelProviderFactory	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  public ViewModelProvider.Factory getDefaultViewModelProviderFactory() {$/;"	m	class:Hilt_MainActivity
+getDefaultViewModelProviderFactory	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public ViewModelProvider.Factory getDefaultViewModelProviderFactory() {$/;"	m	class:Hilt_TaskEditFragment
+getDefaultViewModelProviderFactory	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public ViewModelProvider.Factory getDefaultViewModelProviderFactory() {$/;"	m	class:Hilt_TaskListFragment
+getDesc	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public String getDesc() {$/;"	m	class:Task
+getEntry	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^        public Task getEntry() {$/;"	m	class:TaskListAdapter.ViewHolder
+getFirestoreTaskRepository	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private FirestoreTaskRepository getFirestoreTaskRepository() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+getFirestoreTaskRepositoryProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  private Provider<FirestoreTaskRepository> getFirestoreTaskRepositoryProvider() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC	file:
+getFragmentViewModelFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public Set<ViewModelProvider.Factory> getFragmentViewModelFactory() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+getId	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public String getId() {$/;"	m	class:Task
+getItemCount	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    public int getItemCount() {$/;"	m	class:TaskListAdapter
+getLayoutId	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^  public int getLayoutId(String tag) {$/;"	m	class:DataBinderMapperImpl
+getMapOfStringAndProviderOfViewModelAssistedFactoryOf	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private Map<String, Provider<ViewModelAssistedFactory<? extends ViewModel>>> getMapOfStringAndProviderOfViewModelAssistedFactoryOf($/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+getProvideFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private ViewModelProvider.Factory getProvideFactory() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl	file:
+getProvideFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private ViewModelProvider.Factory getProvideFactory() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+getRandomWordAPI	app/src/main/java/com/example/todomaster/networking/RandomWordClient.java	/^    public RandomWordAPI getRandomWordAPI() {$/;"	m	class:RandomWordClient
+getRoot	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public ConstraintLayout getRoot() {$/;"	m	class:ActivityMainBinding
+getRoot	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public ConstraintLayout getRoot() {$/;"	m	class:FragmentTaskListBinding
+getSelected	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public TaskLiveData getSelected() {$/;"	m	class:TasksVM
+getTask	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public Task getTask() {$/;"	m	class:TaskListItemBinding
+getTaskById	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public TaskLiveData getTaskById(String id) {$/;"	m	class:FirestoreTaskRepository
+getTaskById	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    TaskLiveData getTaskById(String id);$/;"	m	interface:TaskRepository
+getTasks	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public LiveData<List<Task>> getTasks() {$/;"	m	class:TasksVM
+getTasksVM_AssistedFactory	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private TasksVM_AssistedFactory getTasksVM_AssistedFactory() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+getTasksVM_AssistedFactoryProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private Provider<TasksVM_AssistedFactory> getTasksVM_AssistedFactoryProvider() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+getTitle	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public String getTitle() {$/;"	m	class:Task
+getViewModel	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public TasksVM getViewModel() {$/;"	m	class:FragmentTaskEditBinding
+getWord	app/src/main/java/com/example/todomaster/networking/RandomWordAPI.java	/^    Call<String[]> getWord(@Query("number") int n);$/;"	m	interface:RandomWordAPI
+hasPendingBindings	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    public boolean hasPendingBindings() {$/;"	m	class:FragmentTaskEditBindingImpl
+hasPendingBindings	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    public boolean hasPendingBindings() {$/;"	m	class:TaskListItemBindingImpl
+hashCode	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public int hashCode() {$/;"	m	class:Task
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_MainActivity_GeneratedInjectorModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_di_FirestoreRepoHiltModuleModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_di_TaskMaster_GeneratedInjectorModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_networking_NetworkingHiltModuleModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_view_TaskEditFragment_GeneratedInjectorModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_view_TaskListFragment_GeneratedInjectorModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+hilt_aggregated_deps	app/build/generated/source/kapt/debug/hilt_aggregated_deps/com_example_todomaster_viewmodel_TasksVM_HiltModuleModuleDeps.java	/^package hilt_aggregated_deps;$/;"	p
+id	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private final int id;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.SwitchingProvider	file:
+id	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private final int id;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.SwitchingProvider	file:
+id	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    private String id;$/;"	f	class:Task	file:
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public static ActivityMainBinding inflate(@NonNull LayoutInflater inflater) {$/;"	m	class:ActivityMainBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public static ActivityMainBinding inflate(@NonNull LayoutInflater inflater,$/;"	m	class:ActivityMainBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public static FragmentTaskEditBinding inflate(@NonNull LayoutInflater inflater) {$/;"	m	class:FragmentTaskEditBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public static FragmentTaskEditBinding inflate(@NonNull LayoutInflater inflater,$/;"	m	class:FragmentTaskEditBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public static FragmentTaskListBinding inflate(@NonNull LayoutInflater inflater) {$/;"	m	class:FragmentTaskListBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public static FragmentTaskListBinding inflate(@NonNull LayoutInflater inflater,$/;"	m	class:FragmentTaskListBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public static TaskListItemBinding inflate(@NonNull LayoutInflater inflater) {$/;"	m	class:TaskListItemBinding
+inflate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public static TaskListItemBinding inflate(@NonNull LayoutInflater inflater,$/;"	m	class:TaskListItemBinding
+init	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void init() {$/;"	m	class:TestTask
+init	gradlew.bat	/^:init$/;"	l
+initializeComponentContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  private void initializeComponentContext() {$/;"	m	class:Hilt_TaskEditFragment	file:
+initializeComponentContext	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  private void initializeComponentContext() {$/;"	m	class:Hilt_TaskListFragment	file:
+inject	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  protected void inject() {$/;"	m	class:Hilt_MainActivity
+inject	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  protected void inject() {$/;"	m	class:Hilt_TaskEditFragment
+inject	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  protected void inject() {$/;"	m	class:Hilt_TaskListFragment
+injectMainActivity	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_GeneratedInjector.java	/^  void injectMainActivity(MainActivity mainActivity);$/;"	m	interface:MainActivity_GeneratedInjector
+injectMainActivity	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public void injectMainActivity(MainActivity arg0) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+injectMainActivity2	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private MainActivity injectMainActivity2(MainActivity instance) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+injectMembers	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^  public void injectMembers(MainActivity instance) {$/;"	m	class:MainActivity_MembersInjector
+injectSetRandomWordAPI	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^  public static void injectSetRandomWordAPI(MainActivity instance, RandomWordAPI randomWordAPI) {$/;"	m	class:MainActivity_MembersInjector
+injectTaskEditFragment	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public void injectTaskEditFragment(TaskEditFragment taskEditFragment) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+injectTaskEditFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskEditFragment_GeneratedInjector.java	/^  void injectTaskEditFragment(TaskEditFragment taskEditFragment);$/;"	m	interface:TaskEditFragment_GeneratedInjector
+injectTaskListFragment	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public void injectTaskListFragment(TaskListFragment taskListFragment) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+injectTaskListFragment	app/build/generated/source/kapt/debug/com/example/todomaster/view/TaskListFragment_GeneratedInjector.java	/^  void injectTaskListFragment(TaskListFragment taskListFragment);$/;"	m	interface:TaskListFragment_GeneratedInjector
+injectTaskMaster	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  public void injectTaskMaster(TaskMaster taskMaster) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC
+injectTaskMaster	app/build/generated/source/kapt/debug/com/example/todomaster/di/TaskMaster_GeneratedInjector.java	/^  void injectTaskMaster(TaskMaster taskMaster);$/;"	m	interface:TaskMaster_GeneratedInjector
+invalidateAll	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    public void invalidateAll() {$/;"	m	class:FragmentTaskEditBindingImpl
+invalidateAll	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    public void invalidateAll() {$/;"	m	class:TaskListItemBindingImpl
+lifecycleOwner	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    private LifecycleOwner lifecycleOwner;$/;"	f	class:TaskListAdapter	file:
+listenerRegistration	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    private ListenerRegistration listenerRegistration;$/;"	f	class:TaskListLiveData	file:
+listenerRegistration	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    private ListenerRegistration listenerRegistration;$/;"	f	class:TaskLiveData	file:
+mDirtyFlags	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private  long mDirtyFlags = 0xffffffffffffffffL;$/;"	f	class:FragmentTaskEditBindingImpl	file:
+mDirtyFlags	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    private  long mDirtyFlags = 0xffffffffffffffffL;$/;"	f	class:TaskListItemBindingImpl	file:
+mTask	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  protected Task mTask;$/;"	f	class:TaskListItemBinding
+mViewModel	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  protected TasksVM mViewModel;$/;"	f	class:FragmentTaskEditBinding
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+mboundView0	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private final androidx.constraintlayout.widget.ConstraintLayout mboundView0;$/;"	f	class:FragmentTaskEditBindingImpl	file:
+mboundView0	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    private final androidx.cardview.widget.CardView mboundView0;$/;"	f	class:TaskListItemBindingImpl	file:
+navHost	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public final FragmentContainerView navHost;$/;"	f	class:ActivityMainBinding
+newInstance	app/build/generated/source/kapt/debug/com/example/todomaster/data/persistence/FirestoreTaskRepository_Factory.java	/^  public static FirestoreTaskRepository newInstance(FirebaseFirestore firestore) {$/;"	m	class:FirestoreTaskRepository_Factory
+newInstance	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^  public static TasksVM_AssistedFactory newInstance(Provider<FirestoreTaskRepository> repo) {$/;"	m	class:TasksVM_AssistedFactory_Factory
+omega	gradlew.bat	/^:omega$/;"	l
+onActive	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    protected void onActive() {$/;"	m	class:TaskListLiveData
+onActive	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    protected void onActive() {$/;"	m	class:TaskLiveData
+onAttach	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public void onAttach(Activity activity) {$/;"	m	class:Hilt_TaskEditFragment
+onAttach	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public void onAttach(Context context) {$/;"	m	class:Hilt_TaskEditFragment
+onAttach	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public void onAttach(Activity activity) {$/;"	m	class:Hilt_TaskListFragment
+onAttach	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public void onAttach(Context context) {$/;"	m	class:Hilt_TaskListFragment
+onBindViewHolder	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {$/;"	m	class:TaskListAdapter
+onChangeViewModelSelected	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private boolean onChangeViewModelSelected(com.example.todomaster.data.persistence.TaskLiveData ViewModelSelected, int fieldId) {$/;"	m	class:FragmentTaskEditBindingImpl	file:
+onCreate	app/build/generated/source/kapt/debug/com/example/todomaster/Hilt_MainActivity.java	/^  protected void onCreate(@Nullable Bundle savedInstanceState) {$/;"	m	class:Hilt_MainActivity
+onCreate	app/build/generated/source/kapt/debug/com/example/todomaster/di/Hilt_TaskMaster.java	/^  public void onCreate() {$/;"	m	class:Hilt_TaskMaster
+onCreate	app/src/main/java/com/example/todomaster/MainActivity.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:MainActivity
+onCreateOptionsMenu	app/src/main/java/com/example/todomaster/MainActivity.java	/^    public boolean onCreateOptionsMenu(Menu menu) {$/;"	m	class:MainActivity
+onCreateView	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^    public View onCreateView($/;"	m	class:TaskEditFragment
+onCreateView	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^    public View onCreateView($/;"	m	class:TaskListFragment
+onCreateViewHolder	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {$/;"	m	class:TaskListAdapter
+onDestroy	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^    public void onDestroy() {$/;"	m	class:TaskEditFragment
+onEvent	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    public void onEvent(@Nullable QuerySnapshot snap, @Nullable FirebaseFirestoreException error) {$/;"	m	class:TaskListLiveData
+onEvent	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    public void onEvent(@Nullable DocumentSnapshot snap, @Nullable FirebaseFirestoreException error) {$/;"	m	class:TaskLiveData
+onFieldChange	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    protected boolean onFieldChange(int localFieldId, Object object, int fieldId) {$/;"	m	class:FragmentTaskEditBindingImpl
+onFieldChange	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    protected boolean onFieldChange(int localFieldId, Object object, int fieldId) {$/;"	m	class:TaskListItemBindingImpl
+onGetLayoutInflater	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskEditFragment.java	/^  public LayoutInflater onGetLayoutInflater(Bundle savedInstanceState) {$/;"	m	class:Hilt_TaskEditFragment
+onGetLayoutInflater	app/build/generated/source/kapt/debug/com/example/todomaster/view/Hilt_TaskListFragment.java	/^  public LayoutInflater onGetLayoutInflater(Bundle savedInstanceState) {$/;"	m	class:Hilt_TaskListFragment
+onInactive	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    protected void onInactive() {$/;"	m	class:TaskListLiveData
+onInactive	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    protected void onInactive() {$/;"	m	class:TaskLiveData
+onOptionsItemSelected	app/src/main/java/com/example/todomaster/MainActivity.java	/^    public boolean onOptionsItemSelected(MenuItem item) {$/;"	m	class:MainActivity
+onViewCreated	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^    public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {$/;"	m	class:TaskEditFragment
+onViewCreated	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^    public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {$/;"	m	class:TaskListFragment
+randomWordAPI	app/src/main/java/com/example/todomaster/MainActivity.java	/^    private RandomWordAPI randomWordAPI;$/;"	f	class:MainActivity	file:
+randomWordAPI	app/src/main/java/com/example/todomaster/networking/RandomWordClient.java	/^    private RandomWordAPI randomWordAPI;$/;"	f	class:RandomWordClient	file:
+randomWordAPIProvider	app/build/generated/source/kapt/debug/com/example/todomaster/MainActivity_MembersInjector.java	/^  private final Provider<RandomWordAPI> randomWordAPIProvider;$/;"	f	class:MainActivity_MembersInjector	file:
+reference	app/src/main/java/com/example/todomaster/data/persistence/TaskListLiveData.java	/^    private Query reference;$/;"	f	class:TaskListLiveData	file:
+reference	app/src/main/java/com/example/todomaster/data/persistence/TaskLiveData.java	/^    private DocumentReference reference;$/;"	f	class:TaskLiveData	file:
+removeEntry	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public void removeEntry() {$/;"	m	class:TasksVM
+repo	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory.java	/^  private final Provider<FirestoreTaskRepository> repo;$/;"	f	class:TasksVM_AssistedFactory	file:
+repoProvider	app/build/generated/source/kapt/debug/com/example/todomaster/viewmodel/TasksVM_AssistedFactory_Factory.java	/^  private final Provider<FirestoreTaskRepository> repoProvider;$/;"	f	class:TasksVM_AssistedFactory_Factory	file:
+repository	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    private FirestoreTaskRepository repository;$/;"	f	class:TasksVM	file:
+retainedComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  public ActivityRetainedComponentBuilder retainedComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC
+rootView	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  private final ConstraintLayout rootView;$/;"	f	class:ActivityMainBinding	file:
+rootView	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  private final ConstraintLayout rootView;$/;"	f	class:FragmentTaskListBinding	file:
+sIncludes	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private static final androidx.databinding.ViewDataBinding.IncludedLayouts sIncludes;$/;"	f	class:FragmentTaskEditBindingImpl	file:
+sIncludes	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    private static final androidx.databinding.ViewDataBinding.IncludedLayouts sIncludes;$/;"	f	class:TaskListItemBindingImpl	file:
+sKeys	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);$/;"	f	class:DataBinderMapperImpl.InnerLayoutIdLookup
+sKeys	app/build/generated/source/kapt/debug/com/example/todomaster/DataBinderMapperImpl.java	/^    static final SparseArray<String> sKeys = new SparseArray<String>(3);$/;"	f	class:DataBinderMapperImpl.InnerBrLookup
+sViewsWithIds	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private static final android.util.SparseIntArray sViewsWithIds;$/;"	f	class:FragmentTaskEditBindingImpl	file:
+sViewsWithIds	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    private static final android.util.SparseIntArray sViewsWithIds;$/;"	f	class:TaskListItemBindingImpl	file:
+save	gradlew	/^save () {$/;"	f
+selected	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    private TaskLiveData selected;$/;"	f	class:TasksVM	file:
+service	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    private Service service;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ServiceCBuilder	file:
+service	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^    public ServiceCBuilder service(Service service) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ServiceCBuilder
+serviceComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^  public ServiceComponentBuilder serviceComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC
+setDate	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public void setDate(Date date) {$/;"	m	class:Task
+setDesc	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public void setDesc(String desc) {$/;"	m	class:Task
+setEntry	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^        public void setEntry(Task task) {$/;"	m	class:TaskListAdapter.ViewHolder
+setId	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public void setId(String id) {$/;"	m	class:Task
+setRandomWordAPI	app/src/main/java/com/example/todomaster/MainActivity.java	/^    public void setRandomWordAPI(RandomWordAPI randomWordAPI) {$/;"	m	class:MainActivity
+setSelected	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public void setSelected(String id) {$/;"	m	class:TasksVM
+setTask	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public abstract void setTask(@Nullable Task task);$/;"	m	class:TaskListItemBinding
+setTask	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    public void setTask(@Nullable com.example.todomaster.data.model.Task Task) {$/;"	m	class:TaskListItemBindingImpl
+setTitle	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public void setTitle(String title) {$/;"	m	class:Task
+setVariable	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    public boolean setVariable(int variableId, @Nullable Object variable)  {$/;"	m	class:FragmentTaskEditBindingImpl
+setVariable	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/TaskListItemBindingImpl.java	/^    public boolean setVariable(int variableId, @Nullable Object variable)  {$/;"	m	class:TaskListItemBindingImpl
+setViewModel	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public abstract void setViewModel(@Nullable TasksVM viewModel);$/;"	m	class:FragmentTaskEditBinding
+setViewModel	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    public void setViewModel(@Nullable com.example.todomaster.viewmodel.TasksVM ViewModel) {$/;"	m	class:FragmentTaskEditBindingImpl
+task	app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java	/^  public static final int task = 1;$/;"	f	class:BR
+task	app/build/generated/source/kapt/debug/com/example/todomaster/BR.java	/^  public static final int task = 1;$/;"	f	class:BR
+task	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^        private Task task;$/;"	f	class:TaskListAdapter.ViewHolder	file:
+task	app/src/test/java/com/example/todomaster/TestTask.java	/^    Task task;$/;"	f	class:TestTask
+taskEditDate	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public final TextView taskEditDate;$/;"	f	class:FragmentTaskEditBinding
+taskEditDesc	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public final EditText taskEditDesc;$/;"	f	class:FragmentTaskEditBinding
+taskEditDescandroidTextAttrChanged	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private androidx.databinding.InverseBindingListener taskEditDescandroidTextAttrChanged = new androidx.databinding.InverseBindingListener() {$/;"	f	class:FragmentTaskEditBindingImpl	file:
+taskEditRemove	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public final Button taskEditRemove;$/;"	f	class:FragmentTaskEditBinding
+taskEditSave	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public final Button taskEditSave;$/;"	f	class:FragmentTaskEditBinding
+taskEditTitle	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskEditBinding.java	/^  public final EditText taskEditTitle;$/;"	f	class:FragmentTaskEditBinding
+taskEditTitleandroidTextAttrChanged	app/build/generated/source/kapt/debug/com/example/todomaster/databinding/FragmentTaskEditBindingImpl.java	/^    private androidx.databinding.InverseBindingListener taskEditTitleandroidTextAttrChanged = new androidx.databinding.InverseBindingListener() {$/;"	f	class:FragmentTaskEditBindingImpl	file:
+taskItemDesc	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public final AppCompatTextView taskItemDesc;$/;"	f	class:TaskListItemBinding
+taskItemTitle	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/TaskListItemBinding.java	/^  public final AppCompatTextView taskItemTitle;$/;"	f	class:TaskListItemBinding
+taskList	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/FragmentTaskListBinding.java	/^  public final RecyclerView taskList;$/;"	f	class:FragmentTaskListBinding
+tasks	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    private TaskListLiveData tasks;$/;"	f	class:TasksVM	file:
+tasksVM	app/src/main/java/com/example/todomaster/view/TaskListAdapter.java	/^    private TasksVM tasksVM;$/;"	f	class:TaskListAdapter	file:
+tasksVM_AssistedFactoryProvider	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      private volatile Provider<TasksVM_AssistedFactory> tasksVM_AssistedFactoryProvider;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl	file:
+testEquals	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEquals() {$/;"	m	class:TestTask
+testEqualsDateBothDateNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDateBothDateNull() {$/;"	m	class:TestTask
+testEqualsDateNotNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDateNotNull() {$/;"	m	class:TestTask
+testEqualsDateNotNullDate	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDateNotNullDate() {$/;"	m	class:TestTask
+testEqualsDateNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDateNull() {$/;"	m	class:TestTask
+testEqualsDescBothDescNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDescBothDescNull() {$/;"	m	class:TestTask
+testEqualsDescNotNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDescNotNull() {$/;"	m	class:TestTask
+testEqualsDescNotNullDescs	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDescNotNullDescs() {$/;"	m	class:TestTask
+testEqualsDescNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsDescNull() {$/;"	m	class:TestTask
+testEqualsIdBothIdsNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsIdBothIdsNull() {$/;"	m	class:TestTask
+testEqualsIdNotNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsIdNotNull() {$/;"	m	class:TestTask
+testEqualsIdNotNullIds	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsIdNotNullIds() {$/;"	m	class:TestTask
+testEqualsIdNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsIdNull() {$/;"	m	class:TestTask
+testEqualsTitleBothTitlesNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsTitleBothTitlesNull() {$/;"	m	class:TestTask
+testEqualsTitleNotNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsTitleNotNull() {$/;"	m	class:TestTask
+testEqualsTitleNotNullTitle	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsTitleNotNullTitle() {$/;"	m	class:TestTask
+testEqualsTitleNull	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testEqualsTitleNull() {$/;"	m	class:TestTask
+testNotEquals	app/src/test/java/com/example/todomaster/TestTask.java	/^    public void testNotEquals() {$/;"	m	class:TestTask
+title	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    private String title;$/;"	f	class:Task	file:
+toString	app/src/main/java/com/example/todomaster/data/model/Task.java	/^    public String toString() {$/;"	m	class:Task
+toolbar	app/build/generated/data_binding_base_class_source_out/debug/out/com/example/todomaster/databinding/ActivityMainBinding.java	/^  public final Toolbar toolbar;$/;"	f	class:ActivityMainBinding
+updateSelected	app/src/main/java/com/example/todomaster/viewmodel/TasksVM.java	/^    public void updateSelected() {$/;"	m	class:TasksVM
+updateTask	app/src/main/java/com/example/todomaster/data/persistence/FirestoreTaskRepository.java	/^    public TaskLiveData updateTask(Task entry) {$/;"	m	class:FirestoreTaskRepository
+updateTask	app/src/main/java/com/example/todomaster/data/persistence/TaskRepository.java	/^    TaskLiveData updateTask(Task entry);$/;"	m	interface:TaskRepository
+useAppContext	app/src/androidTest/java/com/example/todomaster/ExampleInstrumentedTest.java	/^    public void useAppContext() {$/;"	m	class:ExampleInstrumentedTest
+view	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^          private View view;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl.ViewWithFragmentCBuilder	file:
+view	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^          public ViewWithFragmentCBuilder view(View view) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl.ViewWithFragmentCBuilder
+view	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        private View view;$/;"	f	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.ViewCBuilder	file:
+view	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public ViewCBuilder view(View view) {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.ViewCBuilder
+viewComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^      public ViewComponentBuilder viewComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl
+viewModel	app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java	/^  public static final int viewModel = 2;$/;"	f	class:BR
+viewModel	app/build/generated/source/kapt/debug/com/example/todomaster/BR.java	/^  public static final int viewModel = 2;$/;"	f	class:BR
+viewWithFragmentComponentBuilder	app/build/generated/source/kapt/debug/com/example/todomaster/di/DaggerTaskMaster_HiltComponents_ApplicationC.java	/^        public ViewWithFragmentComponentBuilder viewWithFragmentComponentBuilder() {$/;"	m	class:DaggerTaskMaster_HiltComponents_ApplicationC.ActivityRetainedCImpl.ActivityCImpl.FragmentCImpl
+vm	app/src/main/java/com/example/todomaster/view/TaskEditFragment.java	/^    private TasksVM vm;$/;"	f	class:TaskEditFragment	file:
+vm	app/src/main/java/com/example/todomaster/view/TaskListFragment.java	/^    private TasksVM vm;$/;"	f	class:TaskListFragment	file:
+warn	gradlew	/^warn () {$/;"	f
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
